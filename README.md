@@ -10,7 +10,7 @@ Stage 1, proof-of-concept is complete. This is running on an NVIDIA RTX 5060 Ti.
 
 # To-Do
 
-The idea is that this can run online, but optional support for a larger orchestrator agent built on voice is fun. I have tons of experience with voice agents, so I'll probably do this next.
+The idea is that this runs offline, but optional support for a larger orchestrator agent built on voice is fun. I have tons of experience with voice agents, so I'll probably do this next.
 
 ## About This Repo
 
