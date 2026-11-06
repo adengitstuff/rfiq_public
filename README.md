@@ -1,6 +1,6 @@
 # Real-Time AI for RF
 
-This is a public demo repo for independent research I'm doing, trying to engineer a real-time AI for spectrum tasks. Detects and responds to signals live, on commodity SDR hardware. (This first demo is on synthetic, made-up data as a proof-of-concept, focused on minimal latency).
+This is a public demo repo for independent research I'm doing, trying to engineer a real-time AI for spectrum tasks. This tracks each signal, then detects and responds to signals live, on commodity SDR hardware. (This first demo is on synthetic, made-up data as a proof-of-concept, focused on minimal latency).
 
 
 https://github.com/user-attachments/assets/0f7e3f6e-82f9-490b-bf3c-dea0aa2a3ed3
