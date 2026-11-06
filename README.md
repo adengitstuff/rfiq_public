@@ -6,7 +6,7 @@ This is a public demo repo for independent research I'm doing, trying to enginee
 https://github.com/user-attachments/assets/0f7e3f6e-82f9-490b-bf3c-dea0aa2a3ed3
 
 # Status
-Stage 1 complete. This is running on an NVIDIA RTX 5060 Ti. I'm now building in support for real SDR, and real object recognition. Researching a few really cool papers, an ICLR paper proposes anomaly detection and I'm really curious if it can be in real-time. 
+Stage 1 complete. This is running on an NVIDIA RTX 5060 Ti. I'm now building in support for real SDR, and real object recognition. Researching a few really cool papers, a few ICLR papers propose really novel anomaly detection stuff that I'd love to try.
 
 # To-Do
 
